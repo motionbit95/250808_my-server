@@ -8,6 +8,7 @@
     <!-- Open Graph 메타 태그 -->
     <meta property="og:title" content="250808 AI 챗봇 실습 🤖" />
     <meta property="og:description" content="AI에게 무엇이든 물어보세요. 실시간 채팅처럼 대화해보세요!" />
+    <meta property="og:image" content="https://two50808-my-server.onrender.com/images/og-image.png">
     <meta property="og:url" content="https://two50808-my-server.onrender.com/ai" />
     <meta property="og:type" content="website" />
     <meta name="twitter:card" content="summary_large_image" />
