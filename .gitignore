@@ -36,3 +36,9 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### 스마트톰캣
+.smarttomcat
+
+### 환경변수
+src/main/resources/.env
